@@ -208,7 +208,7 @@
 			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
-				"symbol-spacing" : 100,
+				"symbol-spacing" : 1000,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
@@ -230,7 +230,7 @@
 			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
-				"symbol-spacing" : 150,
+				"symbol-spacing" : 1500,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
@@ -252,7 +252,7 @@
 			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
-				"symbol-spacing" : 200,
+				"symbol-spacing" : 150,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
