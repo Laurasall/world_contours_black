@@ -18,7 +18,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}	
     }, {
@@ -31,7 +31,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}
 		}, {
@@ -60,7 +60,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}
         }, {
@@ -73,7 +73,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}
 		}, {
