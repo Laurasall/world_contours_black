@@ -9,6 +9,48 @@
 		}
 	},
 	"layers" : [{
+			"id" : "Contour_10_main/0",
+			"type" : "line",
+			"source" : "contours",
+			"source-layer" : "Contour",
+			"filter" : ["all", ["==", "Index3", 1], ["==", "Index5", 1]],
+			"minzoom" : 1,
+			"maxzoom" : 22,
+			"paint" : {
+				"line-color" : "#000000",
+                "line-opacity" : 1,
+				"line-width" : 1
+			}	
+    }, {
+			"id" : "Contour_11/0",
+			"type" : "line",
+			"source" : "contours",
+			"source-layer" : "Contour",
+			"filter" : ["all", ["==", "Index3", 1], ["==", "Index5", 0]],
+			"minzoom" : 1,
+			"maxzoom" : 22,
+			"paint" : {
+				"line-color" : "#000000",
+                "line-opacity" : 1,
+				"line-width" : 1
+			}
+		}, {
+			"id" : "Depression_11",
+			"type" : "symbol",
+			"source" : "contours",
+			"source-layer" : "Contour",
+			"filter" : ["all", ["==", "Index3", 1], ["in", "Index5", 1, 0], ["==", "DEPRESSION", 1]],
+			"minzoom" : 1,
+			"maxzoom" : 22,
+			"layout" : {
+				"symbol-placement" : "line",
+				"symbol-spacing" : {"stops": [[11, 4], [12, 8], [13, 16], [16, 20]]},
+				"icon-image" : "Depression/0",
+                "icon-allow-overlap" : true,
+                "icon-ignore-placement" : true,
+                "icon-size" : {"stops": [[11, 0.25], [12, 0.4], [13, 0.7], [16, 1]]}
+			}
+		},{
 			"id" : "Contour_11_main/0",
 			"type" : "line",
 			"source" : "contours",
@@ -143,7 +185,7 @@
 			"minzoom" : 1,
 			"maxzoom" : 22,
 			"paint" : {
-				"line-color" : "#000000",
+				"line-color" : "#FF0000",
                 "line-opacity" : 1,
 				"line-width" : 1
 			}
