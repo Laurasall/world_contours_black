@@ -26,7 +26,7 @@
 			"type" : "line",
 			"source" : "contours",
 			"source-layer" : "Contour",
-			"filter" : ["all", ["==", "Index3", 1], ["==", "Index5", 0]],
+			
 			"minzoom" : 11,
 			"maxzoom" : 12,
 			"paint" : {
