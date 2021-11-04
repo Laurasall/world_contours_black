@@ -17,7 +17,7 @@
 			"minzoom" : 1,
 			"maxzoom" : 22,
 			"paint" : {
-				"line-color" : "#FF0000",
+				"line-color" : "#000000",
                 "line-opacity" : 1,
 				"line-width" : 1
 			}	
@@ -30,7 +30,7 @@
 			"minzoom" : 1,
 			"maxzoom" : 22,
 			"paint" : {
-				"line-color" : "#FF0000",
+				"line-color" : "#000000",
                 "line-opacity" : 1,
 				"line-width" : 1
 			}
@@ -59,7 +59,7 @@
 			"minzoom" : 1,
 			"maxzoom" : 22,
 			"paint" : {
-				"line-color" : "#000000",
+				"line-color" : "#FF0000",
                 "line-opacity" : 1,
 				"line-width" : 1
 			}
@@ -72,7 +72,7 @@
 			"minzoom" : 1,
 			"maxzoom" : 22,
 			"paint" : {
-				"line-color" : "#000000",
+				"line-color" : "#FF0000",
                 "line-opacity" : 1,
 				"line-width" : 1
 			}
