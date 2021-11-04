@@ -252,7 +252,7 @@
 			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
-				"symbol-spacing" : 1500,
+				"symbol-spacing" : 1,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
