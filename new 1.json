@@ -35,7 +35,7 @@
 			"paint" : {
 				"line-color" : "#000000",
                 "line-opacity" : 1,
-				"line-width" : 0.6
+				"line-width" : 1
 			}
 		}, {
 			"id" : "Depression_11",
