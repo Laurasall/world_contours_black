@@ -18,7 +18,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}	
     }, {
@@ -31,7 +31,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}
 		}, {
@@ -60,7 +60,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}
         }, {
@@ -73,7 +73,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 1
 			}
 		}, {
@@ -102,7 +102,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 0.7
 			}
         }, {
@@ -115,7 +115,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 0.7
 			}
 		}, {
@@ -144,7 +144,7 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 0.7
 			}
         }, {
@@ -157,24 +157,10 @@
 			"maxzoom" : 22,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 1,
+                "line-opacity" : 0,
 				"line-width" : 0.7
 			}
-		}, 
-		{
-			"id" : "Contour_15/0",
-			"type" : "line",
-			"source" : "contours",
-			"source-layer" : "Contour",
-			"filter" : ["==", "Index3", 0],
-			"minzoom" : 1,
-			"maxzoom" : 22,
-			"paint" : {
-				"line-color" : "#000000",
-                "line-opacity" : 1,
-				"line-width" : 0.7
-			}
-		}{
+		},	{
 			"id" : "Depression_14",
 			"type" : "symbol",
 			"source" : "contours",
