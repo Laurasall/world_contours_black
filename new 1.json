@@ -249,6 +249,7 @@
 			"source-layer" : "Contour",
 			"filter" : ["==", "Index2", 1],
 			"minzoom" : 16,
+			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
 				"symbol-spacing" : 700,
