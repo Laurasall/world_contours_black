@@ -182,15 +182,15 @@
 			"source" : "contours",
 			"source-layer" : "Contour",
 			"filter" : ["all", ["==", "Index3", 1], ["==", "Index5", 1]],
-			"minzoom" : 11,
-			"maxzoom" : 12,
+			"minzoom" : 1,
+			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
 				"symbol-spacing" : 700,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
-				"text-size" : 9
+				"text-size" : 12
 			},
 			"paint" : {
 				"text-color" : "#000000",
@@ -204,15 +204,15 @@
 			"source" : "contours",
 			"source-layer" : "Contour",
 			"filter" : ["all", ["==", "Index2", 1], ["==", "Index4", 1]],
-			"minzoom" : 12,
-			"maxzoom" : 14,
+			"minzoom" : 1,
+			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
 				"symbol-spacing" : 700,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
-				"text-size" : 9
+				"text-size" : 12
 			},
 			"paint" : {
 				"text-color" : "#000000",
@@ -226,15 +226,15 @@
 			"source" : "contours",
 			"source-layer" : "Contour",
 			"filter" : ["all", ["==", "Index1", 1], ["==", "Index3", 1]],
-			"minzoom" : 14,
-			"maxzoom" : 16,
+			"minzoom" : 1,
+			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
 				"symbol-spacing" : 700,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
-				"text-size" : 9.5
+				"text-size" : 12
 			},
 			"paint" : {
 				"text-color" : "#000000",
@@ -248,14 +248,15 @@
 			"source" : "contours",
 			"source-layer" : "Contour",
 			"filter" : ["==", "Index2", 1],
-			"minzoom" : 16,
+			"minzoom" : 1,
+			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
 				"symbol-spacing" : 700,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
-				"text-size" : 9.5
+				"text-size" : 12
 			},
 			"paint" : {
 				"text-color" : "#000000",
