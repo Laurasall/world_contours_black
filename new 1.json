@@ -79,8 +79,8 @@
 			"maxzoom" : 14,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 0.3,
-				"line-width" : 0.6
+                "line-opacity" : 1,
+				"line-width" : 1
 			}
 		}, {
 			"id" : "Depression_12",
@@ -124,8 +124,8 @@
 			"maxzoom" : 16,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 0.3,
-				"line-width" : 0.6
+                "line-opacity" : 1,
+				"line-width" : 1
 			}
 		}, {
 			"id" : "Depression_13",
@@ -167,7 +167,7 @@
 			"minzoom" : 16,
 			"paint" : {
 				"line-color" : "#000000",
-                "line-opacity" : 0.3,
+                "line-opacity" : 1,
 				"line-width" : 1
 			}
 		}, {
