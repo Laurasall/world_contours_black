@@ -186,7 +186,7 @@
 			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
-				"symbol-spacing" : 700,
+				"symbol-spacing" : 10,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
@@ -208,7 +208,7 @@
 			"maxzoom" : 22,
 			"layout" : {
 				"symbol-placement" : "line",
-				"symbol-spacing" : 700,
+				"symbol-spacing" : 10,
                 "text-letter-spacing" : 0.1,
 				"text-font" : ["Noto Sans Italic", "Arial Unicode MS Regular"],
 				"text-field" : "{Contour} {Unit}",
